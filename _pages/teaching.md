@@ -6,6 +6,13 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## SPIA 2005, 2006, 2104: Introduction to Urban Analytics
 
-Organize your courses by years, topics, or universities, however you like!
+
+## UAP 4854: Urban Infrastructure
+
+
+## SPIA 4464: Data and the Art of Policy and Planning
+
+
+## MURP Year-Long Studio: Planning for Craft Breweries

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
-importance: 1
+title: Carbonshed Planning
+description: bioenergy + carbon capture and storage, localism, and infrastructure planning
+img: /assets/img/3.jpg
+importance: 2
 ---
 
 Every project has a beautiful feature showcase page.

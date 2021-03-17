@@ -1,31 +1,12 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Dr. Lim receives a GO Virginia Grant to teach thermal drone mapping
+date: 2020-10-20 11:07:00
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+The [GO Virginia Developing a Desintation for Talent Program](https://www.provost.vt.edu/executive-vice-provost/develop-destination-talent.html) seeks to provide opportunities for VT students to connect with regional employers. This grant will train students to operate unmanned aerial vehicles (drones) for applications in urban planning, infrastructure inspection/maintenance, and real estate.
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+With the grant, Dr. Lim's lab will purchase a [DJI Mavic 2 Enterprise Dual](https://www.dji.com/mavic-2-enterprise-advanced) drone, which is outfitted with two cameras, one that captures the visible light spectrum, and one that captures thermal infrared data. The latter allows for estimates of land surface temperatures that can be used in extreme heat planning (mitigation of urban heat island effect). Students of Dr. Lim's *Urban Infrastructure* class will build on heat data collection efforts already underway at the City of Roanoke, supplementing existing data sets with high resolution drone-imagery. They will also learn to operate the drone safely in urban environments, develop protocols for preflight planning, emergency/hazard mitigation for each site, and gain confidence in operating drones in complex environments. Drone operation is a [rapidly growing industry](https://www.govtech.com/budget-finance/Drone-Related-Job-Growth-to-Outpace-Predictions.html) and students will gain invaluable experience that will help them on the job market.

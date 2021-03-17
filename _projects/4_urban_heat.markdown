@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: /assets/img/1.jpg
+title: Urban Heat Resilience
+description: thermal mapping/visualization, community experiences with heat, community solutions
+img: /assets/img/
 importance: 3
 ---
 
