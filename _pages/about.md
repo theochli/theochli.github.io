@@ -27,3 +27,5 @@ In addition to my academic research and teaching, I have also worked in the foll
 - Public health and urbanization as a Fulbright Scholar in Northeast China
 
 I use both quantitative and qualitative methods in my research, including: statistical analysis and machine/deep learning, environmental simulation, focus groups/interviews, and content/document analysis. I received my PhD in City and Regional Planning from the University of Pennsylvania, MS in Environmental Science and Engineering from Tsinghua University, and my BA from Swarthmore College.
+
+I am also currently one of three co-chairs of the VT Asian Pacific Islander Desi American (APIDA) Caucus for faculty, staff, students, and community members.
