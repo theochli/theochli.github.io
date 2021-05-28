@@ -45,6 +45,21 @@ nav: true
 
 </div>
 
+## Max Dillon
+<div class="row">
+    <div class="col">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/Max_Theo_Website.JPG">
+    </div>
+    <div class="col-8">
+        <p>
+
+        My name is Max, and I completed a dual degree program in Smart and Sustainable Cities and Environmental Policy and Planning with a minor in Geography at Virginia Tech in May of 2021.  During my senior year, I began working towards an Accelerated Master’s in Urban and Regional Planning which I will complete in the Spring of 2022.  I am primarily interested in community resilience planning and public engagement programs that can help local residents better understand their surrounding environment which will ultimately facilitate their ability to provide relevant public officials with actionable feedback.  I have previously worked with Theo on a coastal design project in which we investigated the urban planning opportunities and challenges associated with managed retreat proposals, and I am excited to partner with him again on heat resilience projects in both Roanoke and the New River Valley.  My personal interests include continuing to engage in the three sports I played throughout high school:  golf, soccer, and basketball – which I officiate at the high school level throughout the Roanoke Valley.  I also enjoy playing daily fantasy sports which provides an opportunity for me to apply a data analytics lens to professional leagues such as the NBA, NFL, and PGA in an effort to identify underlying trends and generate optimal lineups.
+
+        </p>
+    </div>
+
+</div>
+
 ## Nick Armitage
 <div class="row">
     <div class="col">
