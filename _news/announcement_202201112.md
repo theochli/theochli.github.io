@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dr. Lim publishes two papers -- in *ES&T* and *Computers and Geosciences*
+title: Dr. Lim publishes two papers -- in ES&T and Computers and Geosciences
 date: 2022-01-12 14:45:00
 inline: false
 ---
