@@ -139,7 +139,7 @@ plugins:
 scholar:
 
   last_name: Lim
-  first_name: [Theodore Chao, T.C., Theodore C., Theodore C]
+  first_name: [Theodore Chao, T.C., Theodore C., Theodore C, Theodore]
 
   style: apa
   locale: en
