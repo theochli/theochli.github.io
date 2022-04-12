@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>tclim@vt.edu</p>
-    <p>Arch Annex RM 207</p>
+    <p>Arch Annex RM 212</p>
     <p>140 Otey St NW</p>
     <p>Blacksburg, VA 24061</p>
 
