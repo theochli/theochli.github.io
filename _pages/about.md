@@ -28,6 +28,6 @@ In addition to my academic research and teaching, I have also worked in the foll
 
 I use both quantitative and qualitative methods in my research, including: statistical analysis and machine/deep learning, environmental simulation, focus groups/interviews, and content/document analysis. I received my PhD in City and Regional Planning from the University of Pennsylvania, MS in Environmental Science and Engineering from Tsinghua University, and my BA from Swarthmore College.
 
-I am also currently one of two co-chairs of the VT Asian Pacific Islander Desi American (APIDA) Caucus for faculty, staff, students, and community members.
+I am also currently one of two co-chairs of the [Asian Pacific Islander Desi American (APIDA) Caucus](https://blogs.tlos.vt.edu/aaac/) for faculty, staff, students, and community members at Virginia Tech.
 
 This is my most recent <a href="https://docs.google.com/document/d/19H4_rqAT5ySeTe-KWjnTU8XjUAviV-l8ERt0kqwEo1s/edit">CV</a>.
