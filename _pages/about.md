@@ -6,7 +6,7 @@ description: Assistant Professor of Urban Affairs and Planning <a href="https://
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 2023 photo small.jpg
   address: >
     <p>tclim@vt.edu</p>
     <p>Arch Annex RM 212</p>
