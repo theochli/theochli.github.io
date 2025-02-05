@@ -2,29 +2,30 @@
 layout: about
 title: about
 permalink: /
-description: Assistant Professor of Urban Affairs and Planning <a href="https://spia.vt.edu">Virginia Tech School of Public and International Affairs</a>.
+description: Associate Professor at <a href="https://scarp.ubc.ca/">University of British Columbia School of Community and Regional Planning (SCARP) </a>.
 
 profile:
   align: right
   image: 2023 photo small.jpg
   address: >
     <p>tclim@vt.edu</p>
-    <p>Arch Annex RM 212</p>
-    <p>140 Otey St NW</p>
-    <p>Blacksburg, VA 24061</p>
+    <p>West Mall Annex Rm 231</p>
+    <p>1933 West Mall</p>
+    <p>Vancouver, BC, V6T 1Z2</p>
+    <p>CANADA</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am an assistant professor of Urban Affairs and Planning in the School of Public and International Affairs at Virginia Tech. My research focuses on decision-making around the linkages between land, water, infrastructure, and people. I currently have projects in two major areas:
+Welcome! I am an associate professor in University of British Columbia's School of Community and Regional Planning. Planning is a subset of public policy-making that is sensitive to matters of space and place. As such, planning is inherently interdisciplinary and focused on action. Academic research in planning engages with diverse types of knowledge and is oriented toward enabling positive and just societal change. In particular, my research and teaching expertise include:
 
-1. Climate adaptation in cities, and building community resilience to the effects of climate change. This work is supported by NSF and NOAA grants, in which we use community-engaged approaches, especially working with youth and families, to build physical and social infrastructures necessary for communities facing challenges of a changing climate.
+1. Climate adaptation in cities, and building community resilience to the effects of climate change. My experience in this area spans state-led policy to grassroots participatory action research. This work has been supported by over $1M USD in US National Science Foundation (NSF) and US National Oceanic and Atmospheric Administration (NOAA) grants.
 
-2. How data and models are used within environmental management and planning contexts. In 2023, I was awarded an [NSF CAREER grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238552&HistoricalAwards=false) to explore the development of computer models of the environment as a socio-political process. I will be looking at international case studies of environmental management in which computer models are used to guide decision-making and as "boundary objects" to facilitate communication between diverse knowledges and stakeholders. Better understanding of these processes will help reduce considerable institutional uncertainty around how computer models are developed and used in our most consequential socio-environmental decisions.
+2. The use of interdisciplinary information and computational models in learning, research, and regulatory contexts. In 2023, I was awarded an [NSF CAREER grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238552&HistoricalAwards=false) to explore the development of computer models of the environment as a social-political process, and how computer models can be better managed to be useful in policy processes and incorporate evolving scientific knowledge.
 
-I am interested in studying these topics to help communities become more sustainable given limited natural resources and more resilient in the face of social and environmental change. In my work, I center the importance of inclusive and representative decision-making processes. At Virginia Tech, I teach classes related to sustainable urban infrastructure, smart cities, environmental policy/planning, and urban analytics.
+I am interested in studying these topics to help communities become more sustainable given limited natural resources and more resilient in the face of social, technological, and environmental change. In my work, I center the importance of inclusive and representative decision-making processes. At UBC, I teach classes related to and urban analytics, research design, and community engagement.
 
 In addition to my academic research and teaching, I have also worked in the following roles:
 
@@ -32,8 +33,7 @@ In addition to my academic research and teaching, I have also worked in the foll
 - Civil engineer focused on sustainable water infrastructure planning and design
 - Public health and urbanization researcher as a Fulbright Scholar in Northeast China
 
-I use both quantitative and qualitative methods in my research, including: statistical analysis and machine/deep learning, environmental simulation, focus groups/interviews, content/document analysis, and participant observation. I received my PhD in City and Regional Planning from the University of Pennsylvania, MS in Environmental Science and Engineering from Tsinghua University, and my BA from Swarthmore College.
+I use diverse methods in my research, including: statistical analysis and machine/deep learning, environmental simulation, focus groups/interviews, content/document analysis, and action research methods. I received my PhD in City and Regional Planning from the University of Pennsylvania, MS in Environmental Science and Engineering from Tsinghua University, and my BA from Swarthmore College.
 
-I am also currently one of two co-chairs of the [Asian Pacific Islander Desi American (APIDA) Caucus](https://blogs.tlos.vt.edu/aaac/) for faculty, staff, students, and community members at Virginia Tech.
 
 This is my most recent <a href="https://docs.google.com/document/d/19H4_rqAT5ySeTe-KWjnTU8XjUAviV-l8ERt0kqwEo1s/edit">CV</a>.
