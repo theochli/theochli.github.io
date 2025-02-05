@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
    #gem 'github-pages'
-    gem 'faraday', '~> 2.7', '>= 2.7.11'
-    gem 'jekyll', '3.7.3'
+    #gem 'faraday', '~> 2.7', '>= 2.7.11'
+    gem 'jekyll', '4.4.1'
     gem 'jekyll-email-protect'
     gem 'jekyll-github-metadata'
     gem 'jekyll-paginate-v2'

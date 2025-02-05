@@ -6,9 +6,9 @@ title: Theo Lim # the website title (if blank, full name will be used instead)
 first_name: Theodore
 middle_name: C.
 last_name: Lim
-email: tclim@vt.edu
+email: theo.lim@ubc.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Linkages between land, water, infrastructure, and communities.
+  urban and environmental planning
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -139,7 +139,7 @@ plugins:
 scholar:
 
   last_name: Lim
-  first_name: [Theodore Chao, T.C., Theodore C., Theodore C, Theodore]
+  first_name: [Theodore Chao, T.C., Theodore C., Theodore C, Theodore, Theo]
 
   style: apa
   locale: en
