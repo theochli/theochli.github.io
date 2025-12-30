@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Theo Lim | Calculating county-level estimates of eligible voting populations by age, English language ability, and ethnicity</title>
+<meta name="description" content="urban and environmental planning
+">
+
+<!-- Open Graph -->
+
+
+<!-- Bootstrap & MDB -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" integrity="sha512-RO38pBRxYH3SoOprtPTD86JFOclM51/XTIdEPh5j8sj4tp8jmQIx26twG52UaLi//hQldfrh7e51WzP9wuP32Q==" crossorigin="anonymous" />
+
+<!-- Fonts & Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"  integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+<!-- Code Syntax Highlighting -->
+<link rel="stylesheet" href="https://gitcdn.link/repo/jwarby/jekyll-pygments-themes/master/github.css" />
+
+<!-- Styles -->
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✅</text></svg>">
+
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<link rel="canonical" href="/blog/2020/aaat-campaign-analytics/">
+
+<!-- JQuery -->
+<!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+
+
+<!-- Theming-->
+
+
+
+
+
+
+    
+<!-- MathJax -->
+<script type="text/javascript">
+  window.MathJax = {
+    tex: {
+      tags: 'ams'
+    }
+  };
+</script>
+<script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js"></script>
+<script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+
+  </head>
+
+  <body class="fixed-top-nav ">
+
+    <!-- Header -->
+
+    <header>
+
+    <!-- Nav Bar -->
+    <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+    <div class="container">
+      
+      <a class="navbar-brand title font-weight-lighter" href="/">
+       Theo Lim
+      </a>
+      
+      <!-- Navbar Toggle -->
+      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+      <div class="collapse navbar-collapse text-right" id="navbarNav">
+        <ul class="navbar-nav ml-auto flex-nowrap">
+          <!-- About -->
+          <li class="nav-item ">
+            <a class="nav-link" href="/">
+              about
+              
+            </a>
+          </li>
+          
+          <!-- Blog -->
+          <li class="nav-item active">
+            <a class="nav-link" href="/blog/">
+              blog
+              
+            </a>
+          </li>
+          
+          <!-- Other pages -->
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/publications/">
+                publications
+                
+              </a>
+          </li>
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/teaching/">
+                teaching
+                
+              </a>
+          </li>
+          
+          
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</header>
+
+
+    <!-- Content -->
+
+    <div class="container mt-5">
+      
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Calculating county-level estimates of eligible voting populations by age, English language ability, and ethnicity</h1>
+    <p class="post-meta">October 31, 2020</p>
+  </header>
+
+  <article class="post-content">
+    <p>This past fall, I put my data analysis skills to work to work for a political campaign for the first time. The organization I was helping with was called <a href="https://asianamericansagainsttrump.com/">Asian Americans Against Trump</a>, a project of the New American Voices PAC. The mission of the group is to reach out specifically to voting-eligible Asian Americans with language and culturally-specific information to persuade them to vote against the re-election of President Donald Trump.</p>
+
+<p>Asian Americans are the <a href="https://www.pewresearch.org/fact-tank/2020/05/07/asian-americans-are-the-fastest-growing-racial-or-ethnic-group-in-the-u-s-electorate/?fbclid=IwAR0MpSTrNXXWlZLgIXozxjI64wYvlpRg0NsB1iGXiDHjH9IxzYbjJaDoJWE">fastest growing voting bloc</a> in the United States, but voter turnout historically has been quite low. In addition, political campaigns seldom focus effort on Asian American communities because the diversity (language, history, culture) within the group makes it difficult to deploy strategies at scale. AAAT’s mission has been to deploy language and culturally-specific political advertisements to these groups, specifically in areas of the country where the Asian American vote was likely to make the biggest difference (for example, swing states that have sizable voter-eligible Asian populations). My small contribution to the group was to help them figure out which counties to focus ads and additional research on.</p>
+
+<p>To do this, I first collected data from several public sources:</p>
+
+<ol>
+  <li>
+    <p>ACS county-level estimates of numbers of people identifying as specific Asian ethnicities (e.g.: Chinese, Filipino, Vietnamese, Korean, Japanese, Pakistani, Hmong, etc). This is the 5-year estimate (2018) <a href="https://data.census.gov/cedsci/all?q=B02015">TableID = B02015</a>.</p>
+  </li>
+  <li>
+    <p>IPUMS microdata, extracted using their <a href="https://usa.ipums.org/usa-action/variables/group">online data query tool</a>. IPUMS is curated microdata (anonymized individual-level data that are collected for Census Bureau products). This means, that each “row” in this tabular data set represents one person. The highest resolution locational data associated with each observation is the county, however, keep in mind that because this is a sample, the finer you go with the geography, the more likely it is that you will underrepresent co-occuring demographics.</p>
+  </li>
+</ol>
+
+<p>The reason that I needed both these datasets is that the census population totals by ethnicity only give overall estimates of numbers for each ethnicity in each county. Looking at that data, I would not know how many of those were actually eligible to vote, or had limited language proficiency. With the IPUMS microdata, I could isolate individuals that had combinations of characteristics, count them, and get an estimate of their proportion within their ethnicity’s total population in the IPUMS sample. In order to balance the number of demographic variable combinations I could find with geographic specificity, I calculated these proportions at the state-level for each ethnicity.</p>
+
+<p>I could then use that proportion and multiply it against the county-level census data to get estimates of numbers of very specific groups, essentially “downscaling” the state-level proportions to county-level estimates. In North Carolina for example, I could get estimates of voter-eligible Vietnamese millennials:</p>
+
+<div class="row">
+    <div class="col">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/Vietnamese_mill.png" width="800" />
+    </div>
+</div>
+<div class="caption">
+
+</div>
+
+<p><br /></p>
+
+<p>Having estimates of these different subpopulation totals (e.g.: <strong>Limited English Proficiency</strong> x <strong>voter-eligible</strong> x <strong>Chinese ethnicity</strong>) is useful, but to decide where to focus additional research or where you will get the “biggest bang for your buck” we needed to layer on an additional piece of information: voter power.</p>
+
+<p>The idea of voter power reflects the reality that some votes have an outsized effect on deciding the results of elections. For the presidential election, you can think of states with high voter power as “swing states” x ability for that state to change the outcome of the election. Applying Princeton University professor Sam Wang’s <a href="https://election.princeton.edu/presidential-race-voter-powers-by-state/">estimates of voter power</a> by state for the 2020 presidential election to the Asian subpopulation estimates above, I could tell you in which counties you could focus research/outreach to specific subpopulations, based on the actual ability of those votes to change the outcome of the election. Sam Wang talks about this as <a href="https://election.princeton.edu/2020/07/30/new-pec-feature-redistricting-moneyball-2020-edition/">election “Moneyball”</a>, after the <a href="https://en.wikipedia.org/wiki/Moneyball#:~:text=288%20pp.&amp;text=Moneyball%3A%20The%20Art%20of%20Winning%20an%20Unfair%20Game%20is%20a,its%20general%20manager%20Billy%20Beane.">Oakland A’s practice</a> of using statistical analysis to obtain the highest marginal value players given limited resources. In addition to high Asian voter power counties for the presidential election, I also calculated high voter power counties for Senate, and state legislature races where redistricting policies were being decided. I came up with lists of top 20 counties to focus on for each ethnicities’ Limted English Proficiency advertisements. See below for the tables for Chinese LEP and Vietnamese LEP for the presidential election, ranked by most important counties. Notice that the ranking based on voter power x number of voters does not always been that the counties that have the highest number of voters is “more important”. King County Washington has 5,622 LEP Chinese voters, but because Washington is unlike to swing the outcome of the election, it does not rank as high for targeting the estimated 3,898 Chinese LEPs in Philadelphia County, Pennsylvania, which is an important swing state. The colored highlighting in these tables indicate the the county is important in more than just the presidential race. Yellow indicates that it is important in the presidential and senate races; orange that it is important in presidential and redistricting races, and red that it is important in all three. Vietnamese in Charlotte? <strong>GO VOTE! Your vote is critical to the election!!</strong></p>
+
+<div class="row">
+   <div class="col">
+     <img class="img-fluid rounded z-depth-1" src="/assets/img/voterpower1.png" width="800" />
+   </div>
+   <div class="col">
+     <img class="img-fluid rounded z-depth-1" src="/assets/img/voterpower2.png" width="800" />
+   </div>
+ </div>
+
+  </article>
+
+  
+
+</div>
+
+    </div>
+
+    <!-- Footer -->
+
+    
+<footer class="fixed-bottom">
+  <div class="container mt-0">
+    &copy; Copyright 2025 Theodore C. Lim.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+    
+    
+  </div>
+</footer>
+
+
+
+  </body>
+
+  <!-- Bootsrap & MDB scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.4/umd/popper.min.js" integrity="sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A==" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha512-M5KW3ztuIICmVIhjSqXe01oV2bpe248gOxqmlcYrEzAvws7Pw3z6BK0iGbrwvdrUQUhi3eXgtxp5I8PDo9YfjQ==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js" integrity="sha512-Mug9KHKmroQFMLm93zGrjhibM2z2Obg9l6qFG2qKjXEXkMp/VDkI4uju9m4QKPjWSwQ6O2qzZEnJDEeCw0Blcw==" crossorigin="anonymous"></script>
+
+  
+<!-- Mansory & imagesLoaded -->
+<script defer src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script defer src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script defer src="/assets/js/mansory.js" type="text/javascript"></script>
+
+
+  
+
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+
+</html>
